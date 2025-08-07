@@ -7,7 +7,7 @@ Hi, I'm Kafi, a passionate Frontend Web Developer from Bangladesh 🇧🇩. I lo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xkafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullahilkafi/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=0xkafi)  
 
