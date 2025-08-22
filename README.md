@@ -26,4 +26,4 @@ Hi, I'm Kafi, a passionate Frontend Web Developer from Bangladesh 🇧🇩. I lo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?username=0xkafi&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xKafi" alt="GitHub Streak" /></a>
