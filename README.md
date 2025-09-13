@@ -1,29 +1,48 @@
-### Hi there 👋, I'm Kafi
-#### a Frontend Web Developer
-Hi, I'm Kafi, a passionate Frontend Web Developer from Bangladesh 🇧🇩. I love building full-stack web applications that are fast, clean, and user-friendly.
+# Hi there 👋, I'm Kafi  
+### Frontend Web Developer  
 
-- 🌱 I’m currently learning Next.js 
+I’m **Kafi**, a Frontend Web Developer from **Bangladesh** 🇧🇩.  
+I love building full-stack web applications that are fast, clean, and user-friendly.  
 
----
-
-## 💻 Tech Stack
-
-- **Frontend:** React.js, Tailwind CSS, ShadCN UI  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools & Other:** Firebase Auth, JWT, Stripe, Git
+- 🌱 Currently learning **Next.js**  
+- 💡 Interested in creating modern, scalable web solutions  
 
 ---
 
-## 🚀 What I Do
+## 💻 Tech Stack  
 
-- Build responsive and accessible UIs with React & Tailwind  
-- Develop REST APIs and backend services with Node & Express  
-- Integrate authentication (JWT/Firebase) and payment systems (Stripe)  
-- Create full-stack apps with role-based access, dashboards, and real-world features    
+**Frontend:** React.js, Tailwind CSS, ShadCN UI  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools & Services:** Firebase Auth, JWT, Stripe, Git  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xkafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullahilkafi/)  
+## 🚀 What I Do  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Build responsive and accessible UIs with **React & Tailwind**  
+- Develop backend services and REST APIs with **Node.js & Express**  
+- Implement authentication (JWT, Firebase) and payment systems (Stripe)  
+- Create full-stack apps with role-based access, dashboards, and real-world features  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xKafi" alt="GitHub Streak" /></a>
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=0xKafi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xkafi&color=red&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/0xkafi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdullahilkafi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
+</p>
