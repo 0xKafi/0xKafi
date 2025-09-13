@@ -2,10 +2,10 @@
 ### Frontend Web Developer  
 
 I’m **Kafi**, a Frontend Web Developer from **Bangladesh** 🇧🇩.  
-I love building mern-stack web applications that are fast, clean, and user-friendly.  
+I enjoy building **MERN-stack** applications that are fast, clean, and user-friendly.  
 
 - 🌱 Currently learning **Next.js**  
-- 💡 Interested in creating modern, scalable web solutions  
+- 💡 Passionate about building modern, scalable web solutions  
 
 ---
 
@@ -30,13 +30,17 @@ I love building mern-stack web applications that are fast, clean, and user-frien
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=0xKafi&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/0xkafi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdullahilkafi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
 </p>
-<a href="https://www.linkedin.com/in/abdullahilkafi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
