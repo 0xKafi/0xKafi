@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Kafi  
+## Hi there 👋, I'm Kafi  
 ### Frontend Web Developer  
 
 I’m **Kafi**, a Frontend Web Developer from **Bangladesh** 🇧🇩.  
-I love building full-stack web applications that are fast, clean, and user-friendly.  
+I love building mern-stack web applications that are fast, clean, and user-friendly.  
 
 - 🌱 Currently learning **Next.js**  
 - 💡 Interested in creating modern, scalable web solutions  
@@ -38,6 +38,5 @@ I love building full-stack web applications that are fast, clean, and user-frien
 
 <p align="center">
   <a href="https://github.com/0xkafi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdullahilkafi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
 </p>
+<a href="https://www.linkedin.com/in/abdullahilkafi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
