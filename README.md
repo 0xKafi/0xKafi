@@ -32,11 +32,6 @@ I love building full-stack web applications that are fast, clean, and user-frien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkafi&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=0xKafi&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xkafi&color=red&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
