@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Kafi  
 ### Frontend Web Developer  
 
-I’m **Kafi**, a Frontend Web Developer from **Bangladesh** 🇧🇩.  
+I’m **Kafi**, a Frontend Web Developer  
 I enjoy building **MERN-stack** applications that are fast, clean, and user-friendly.  
 
 - 🌱 Currently learning **Next.js**  
